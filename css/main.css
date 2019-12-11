@@ -15,7 +15,6 @@ body {
 #container {
     padding: .1em 1.5em 1em 1em;
     margin-left: 50px;
-    margin-right: 135px;
 }
 #cmdline {
     outline: none;
@@ -46,7 +45,7 @@ body {
     user-select: none;
 }
 .prompt-color {
-    color: #3ECA24;
+    color: #e09f14;
 }
 .input-line {
     display: -webkit-box;
@@ -88,8 +87,8 @@ body {
     position: fixed;
     z-index: 9;
     top: 0;
-    left: 0;#3ECA24
-    background-color: #3ECA24;
+    left: 0;
+    background-color: #e09f14;
     opacity: 0.8;
     overflow-x: hidden;
     transition: 0.3s;
@@ -121,7 +120,7 @@ body {
     border:none;
 }
 #sidenav button:hover {
-    color: #24F2EE;
+    color: #442e00;
 }
 
 @media screen and (max-height: 450px) {
@@ -134,14 +133,4 @@ body {
     #sidenav a {
        font-size: 13px;
    }
-}
-
-@media screen and (max-width: 900px) {
-    #githubImg img {
-        transform: translateX(900px);
-    }
-
-    #container {
-        margin-right: 0;
-    }
 }
