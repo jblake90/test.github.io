@@ -27,13 +27,13 @@ var main = (function () {
             rmdir_help: "Remove directory, this command will only work if the folders are empty.",
             touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
             sudo_help: "Execute a command as the superuser.",
-            welcome: "#        :::::::::       ::::::::::                          ::::::::       ::::::::::       :::::::::   :::::::::::\n#       :+:    :+:      :+:                                :+:    :+:      :+:              :+:    :+:      :+:     \n#      +:+    +:+      +:+                                +:+             +:+              +:+    +:+      +:+       \n#     +#+    +:+      +#++:++#         +#++:++#++:++     +#+             +#++:++#         +#++:++#:       +#+        \n#    +#+    +#+      +#+                                +#+             +#+              +#+    +#+      +#+         \n#   #+#    #+#      #+#                                #+#    #+#      #+#              #+#    #+#      #+#          \n#  #########       ##########                          ########       ##########       ###    ###      ###  ",
+            welcome: "#  $$$$$$$\  $$$$$$$$\          $$$$$$\  $$$$$$$$\ $$$$$$$\  $$$$$$$$\ \n#  $$  __$$\ $$  _____|        $$  __$$\ $$  _____|$$  __$$\ \__$$  __|\n#  $$ |  $$ |$$ |              $$ /  \__|$$ |      $$ |  $$ |   $$ |   \n#  $$ |  $$ |$$$$$\    $$$$$$\ $$ |      $$$$$\    $$$$$$$  |   $$ |   \n#  $$ |  $$ |$$  __|   \______|$$ |      $$  __|   $$  __$$<    $$ |   \n#  $$ |  $$ |$$ |              $$ |  $$\ $$ |      $$ |  $$ |   $$ |   \n#  $$$$$$$  |$$$$$$$$\         \$$$$$$  |$$$$$$$$\ $$ |  $$ |   $$ |   \n#  \_______/ \________|         \______/ \________|\__|  \__|   \__|   \n",
             internet_explorer_warning: "NOTE: I see you're using internet explorer, 1. Don't do that. 2. This website won't work properly.",
             welcome_file_name: "welcome_message.txt",
             invalid_command_message: "<value>: command not found.",
-            reboot_message: "Preparing to reboot...\n\n3...\n\n2...\n\n1...\n\nRebooting...\n\n",
+            reboot_message: "The Matrix has you now......\n\nknock......\n\nknock......\n\nGoodbye Mr. Anderson......\n\nReinsterting into the Matrix.....\n\n",
             permission_denied_message: "Unable to '<value>', permission denied.",
-            sudo_message: "God Mode Enabled.\n Just kidding...\n",
+            sudo_message: "God Mode Enabled.\n........\n.......\n......\n.....\n....\n...\n..\n.\nJust kidding...\n",
             usage: "Usage",
             file: "file",
             file_not_found: "File '<value>' not found.",
@@ -65,7 +65,7 @@ var main = (function () {
         };
         Singleton.defaultOptions = {
             "about.txt": "Welcome to my website I am De-CERT a hacker/infosec professional living in Dallas, TX.\nI built this site as a side project to work on my JS skills have fun exploring\nIf you manage to find any bugs or security issues feel free to email me: de-cert@protonmail.com",
-            "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
+            "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.",
             "contact.txt": "email me: de-cert@protonmail.com",
             "tweeter.txt": "https://twitter.com/Dehyphencert",
             "blank.txt": ""
