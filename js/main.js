@@ -27,7 +27,7 @@ var main = (function () {
             rmdir_help: "Remove directory, this command will only work if the folders are empty.",
             touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
             sudo_help: "Execute a command as the superuser.",
-            welcome: "#  $$$$$$$\  $$$$$$$$\          $$$$$$\  $$$$$$$$\ $$$$$$$\  $$$$$$$$\ \n#  $$  __$$\ $$  _____|        $$  __$$\ $$  _____|$$  __$$\ \__$$  __|\n#  $$ |  $$ |$$ |              $$ /  \__|$$ |      $$ |  $$ |   $$ |   \n#  $$ |  $$ |$$$$$\    $$$$$$\ $$ |      $$$$$\    $$$$$$$  |   $$ |   \n#  $$ |  $$ |$$  __|   \______|$$ |      $$  __|   $$  __$$<    $$ |   \n#  $$ |  $$ |$$ |              $$ |  $$\ $$ |      $$ |  $$ |   $$ |   \n#  $$$$$$$  |$$$$$$$$\         \$$$$$$  |$$$$$$$$\ $$ |  $$ |   $$ |   \n#  \_______/ \________|         \______/ \________|\__|  \__|   \__|   \n",
+            welcome: "#  $$$$$$$  $$$$$$$$          $$$$$$  $$$$$$$$ $$$$$$$  $$$$$$$$ \n#  $$  __$$ $$  _____|        $$  __$$ $$  _____|$$  __$$ __$$  __|\n#  $$ |  $$ |$$ |              $$ /  __|$$ |      $$ |  $$ |   $$ |   \n#  $$ |  $$ |$$$$$    $$$$$$ $$ |      $$$$$    $$$$$$$  |   $$ |   \n#  $$ |  $$ |$$  __|   ______|$$ |      $$  __|   $$  __$$<    $$ |   \n#  $$ |  $$ |$$ |              $$ |  $$ $$ |      $$ |  $$ |   $$ |   \n#  $$$$$$$  |$$$$$$$$         $$$$$$  |$$$$$$$$ $$ |  $$ |   $$ |   \n#  _______/ ________|         ______/ ________|__|  __|   __|   \n",
             internet_explorer_warning: "NOTE: I see you're using internet explorer, 1. Don't do that. 2. This website won't work properly.",
             welcome_file_name: "welcome_message.txt",
             invalid_command_message: "<value>: command not found.",
