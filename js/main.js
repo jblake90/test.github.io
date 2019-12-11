@@ -1,1 +1,505 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return'\\w+'};c=1};while(c--){if(k[c]){p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c])}}return p}('"2d 4n";8 42=(4(){8 b=(4(){8 Y;8 J=4(L){8 L=L||J.12;u(8 T D J.12){3[T]=L[T]||J.12[T]}};J.12={3K:"4H 3l\'s a 3n 1I 4J 3g 1q 31 2d.\\4E 31 2d 4y 3a 4v q 4X T, 5r d 3l\'s 2u 1 5F, 2r 5G 1q a 3n 1I R.",2E:"5E 5D 2R q U 1s 3o (q 22 24 3a 3S).",2G:"5l 55(s) 57 1s 54 2e Z q 53 j (2K).",2P:"2m q 14 3p 4Z 4Y q 22 5k 14 5s 1s 1V 5e.",2I:"2m q 2M 1M 1s 5d.",2O:"2m 3 5b.",2L:"5f q 5g 2K.",2C:"5j q 2M.",2J:"3e q 22 5i 24.",2x:"5h (5a) U.",2v:"2z U 2r 59.",2H:"2z 24, 3 V 2U 2u 2q d q 3o 50 3f.",2N:"3e r 58. 56 q r 5m\'t 5C, 2e\'s 5B 2T 3f 5z.",2D:"5I a V 1y q 5H.",2o:"#  $$$$$$$   $$$$$$$$           $$$$$$   $$$$$$$$  $$$$$$$   $$$$$$$$ \\n#  $$  N$$  $$  39|        $$  N$$  $$  39|$$  N$$  N$$  N|\\n#  $$ |  $$ |$$ |              $$ /      $$ |      $$ |  $$ |  $$ |   \\n#  $$ |  $$ |$$$$$     $$$$$$  $$ |      $$$$$|    $$$$$$$  |  $$ |   \\n#  $$ |  $$ |$$  N|   \\5y|$$ |      $$  N|   $$  N$$<   $$ |   \\n#  $$ |  $$ |$$ |              $$ |  $$  $$ |      $$ |  $$ |  $$ |   \\n#  $$$$$$$  |$$$$$$$$          \\$$$$$$  |$$$$$$$$| $$ |  $$ |  $$ |   \\n#  3b/ 5x|         5q/  3b|5p|   N|   N|   \\n",3L:"5n: I 5w 1q\'5v 5u 5t 5J, 1. 4S\'t 4s 3g. 2. 4r 2S 4q\'t 2q 4u.",1c:"4x.1o",3t:"<5>: V 3m 3i.",3J:"4w 2Q 4p 1q 4g......\\n\\3h......\\n\\3h......\\n\\4e 4f. 4o......\\n\\4j 4Q q 2Q.....\\n\\n",3O:"4O Z \'<5>\', 4N 4V.",3V:"4U 4T 4L.\\n........\\n.......\\n......\\n.....\\n....\\n...\\n..\\n.\\4D 4C...\\n",3R:"4F",r:"r",3U:"4G \'<5>\' 3m 3i.",3X:"4W",3Q:"4B",2f:"4M",3P:"4R 4A",2j:"4z",1R:"<5>",1g:"4k.4l",14:"4i",43:1p,41:20};G{7:4(L){Y===3k 0&&(Y=z J(L));G Y}}})();8 U=(4(){8 Y;8 J=4(L){8 L=L||J.12;u(8 T D J.12){3[T]=L[T]||J.12[T]}};J.12={"2R.1o":"62 Z 2Y 2S I 35 6N-34 a 6L/6K 6O 6P D 6T, 6S.\\2c 6R 3 2V 1y a 6Q 6J Z 2q 6I 2Y 6B 5K 30 6z 6x\\6y 1q 6C Z 6D 6H 6G 2r 36 6F 6E 6U Z 2X 2W: 37-38@3j.1Z","6V-34.1o":"I 30 10 33 D q 78 7c 7f 6 33 1I 2e 2Z D 36.\\2c 35 77 6Y a 6W D 70 1s 71 75 D 74\'s, 73 1y 72 1y 2Z 2T 6w 6v 1I 5Y\\2c 2U 5X 61 1V Z 3 2V 1y I 66.","65.1o":"2X 2W: 37-38@3j.1Z","64.1o":"63://5W.1Z/5V","5O.1o":"1V Z 5N"};G{7:4(L){Y===3k 0&&(Y=z J(L));G Y}}})();8 3I=(4(){G 4(){8 3c=1N.H.S;8 3d=3c.21("5L ");G(3d>0||!!H.S.W(/5P.*5U\\:11\\./))}})();8 1t=(4(){G 4(y){y.5S();y.5R()}})();8 1X=(4(){G 4(){1N.67(0,m.4c.68)}})();8 2a=H.S.W(/6m/i)||H.S.W(/6l/i)||H.S.W(/6p/i)||H.S.W(/6q/i)||H.S.W(/6u/i)||H.S.W(/6t/i)||H.S.W(/6r 6k/i);8 v=4(26){3.26=26;d("2w"D 1L){1L.2w(3,v)}Q{3.2t=(z 1L()).2t}};v.f=6b.6a(1L.f);v.f.3p="v";v.f.6d=v;8 h={3E:{5:"2s",l:b.7().2E},1b:{5:"1H",l:b.7().2G},3y:{5:"2p",l:b.7().2P},3x:{5:"1M",l:b.7().2I},3s:{5:"l",l:b.7().2O},3r:{5:"1Y",l:b.7().2L},3q:{5:"2l",l:b.7().2C},3Z:{5:"76",l:b.7().2J},3u:{5:"6n",l:b.7().2x},3v:{5:"6o",l:b.7().2v},3w:{5:"5T",l:b.7().2H},3H:{5:"5Q",l:b.7().2N},3T:{5:"2h",l:b.7().2D}};8 e=4(w,k,j,K,P,14,1g,2A,2y){d(!(w 1e 1f)||w.1r.1h()!=="2n"){18 z v("17 5 "+w+" u 19 \'w\'.")}d(!(k 1e 1f)||k.1r.1h()!=="5Z"){18 z v("17 5 "+k+" u 19 \'k\'.")}d(!(j 1e 1f)||j.1r.1h()!=="2n"){18 z v("17 5 "+j+" u 19 \'j\'.")}d(!(K 1e 1f)||K.1r.1h()!=="2n"){18 z v("17 5 "+K+" u 19 \'K\'.")}d(!(P 1e 1f)||P.1r.1h()!=="6Z"){18 z v("17 5 "+P+" u 19 \'P\'.")}(2B 14==="1u"&&2B 1g==="1u")&&(3.1Q=14+"@"+1g+":~"+(2A?"#":"$"));3.P=P;3.w=w;3.k=k;3.j=j;3.K=K;3.1E=1p;3.1a=[];3.2g=z 1T(2y,j)};e.f.x=4(X,1l){3.2g.x(X,1l)};e.f.3A=4(){8 V=3.k.5;3.k.5="";3.w.16="";3.j.1d+="<32 7a=\\"w-6M\\">"+3.1Q+"</32> "+V+"<1A/>"};e.f.49=4(){2a&&(m.O("6A").E.7e="7g");3.K.1x("28",1t);3.k.1k=1j;3.1a.1v(4(1n){1n.1k=1j});3.40();3.1K();m.4c.1x("28",3.1O.p(3));3.k.1x("6X",4(y){d(y.48===13||y.47===13){3.1U();1t(y)}Q d(y.48===9||y.47===9){3.3D();1t(y)}}.p(3));3.2i()};e.2b=4(o){o.E.1C=0;o.E.4a="1i(-1G)";o.E.46="1i(-1G)";o.E.45="1i(-1G)"};e.3Y=4(o){o.E.1C=1;o.E.4a="1i(0)";o.E.46="1i(0)";o.E.45="1i(0)"};e.f.40=4(){8 44=(4(){G 4(1u){G 1u.3G(0).1h()+1u.6f(1)}})();u(8 r D U.7()){8 o=m.6g("6h");e.2b(o);o.6i=4(r,y){3.29(y);3.k.5="1H "+r+" ";3.1U()}.p(3,r);o.4b(m.6e(44(r.1m(/\\.[^/.]+$/,"").1m(/69/g," "))));3.K.4b(o);3.1a.1B(o)}m.O("1J").1x("28",3.29.p(3))};e.f.29=4(y){d(3.1E){3.P.E.1C=0;3.1a.1v(e.2b);3.K.E.4d="6c";m.O("1J").1d="&#6j;";3.1E=1p}Q{3.K.E.4d="1G";3.1a.1v(e.3Y);m.O("1J").1d="&6s;";3.P.E.1C=1;3.1E=1j}m.O("1J").3C();1t(y)};e.f.1K=4(){3.3A();3.k.3C();3.k.1k=1j;3.1a.1v(4(1n){1n.1k=1j})};e.f.A=4(){3.k.1k=1p;3.w.16=3.1Q;3.1a.1v(4(1n){1n.1k=1p});1X();d(!2a){3.1O()}};e.f.3D=4(){8 c=3.k.5.1D().3F(" ");d((c.15<=1)||(c.15===2&&c[0]===h.1b.5)){3.1K();8 R=[];d(c[0].1F()===h.1b.5){d(c.15===1){c[1]=""}d(b.7().1c.1z(c[1].1F())){R.1B(h.1b.5+" "+b.7().1c)}u(8 r D U.7()){d(r.1z(c[1].1F())){R.1B(h.1b.5+" "+r)}}}Q{u(8 V D h){d(h[V].5.1z(c[0].1F())){R.1B(h[V].5)}}}d(R.15===1){3.k.5=R[0]+" ";3.A()}Q d(R.15>1){3.x(R.1S("\\n"),4(){3.k.5=c.1S(" ");3.A()}.p(3))}Q{3.k.5=c.1S(" ");3.A()}}};e.f.1U=4(){8 c=3.k.5.1D().3F(" ");3.1K();5M(c[0]){B h.1b.5:3.1H(c);M;B h.3E.5:3.2s();M;B h.3y.5:3.2p();M;B h.3x.5:3.1M();M;B h.3s.5:3.l();M;B h.3r.5:3.1Y();M;B h.3q.5:3.2l();M;B h.3Z.5:B h.3u.5:B h.3w.5:B h.3v.5:B h.3H.5:3.3M(c);M;B h.3T.5:3.2h();M;3S:3.3N(c);M}};e.f.1H=4(c){8 C;d(c.15<=1){C=b.7().3R+": "+h.1b.5+" <"+b.7().r+">"}Q d(!c[1]||(!c[1]===b.7().1c&&!U.7().60(c[1]))){C=b.7().3U.1m(b.7().1R,c[1])}Q{C=c[1]===b.7().1c?b.7().2o:U.7()[c[1]]}3.x(C,3.A.p(3))};e.f.2s=4(){8 C=".\\n..\\n"+b.7().1c+"\\n";u(8 r D U.7()){C+=r+"\\n"}3.x(C.1D(),3.A.p(3))};e.f.2h=4(){3.x(b.7().3V,3.A.p(3))}e.f.2p=4(c){8 C=b.7().3X+": "+b.7().14+"\\n"+b.7().3Q+": "+b.7().1g+"\\n"+b.7().2f+": "+H.2f+"\\n"+b.7().3P+": "+H.7b+"\\n"+b.7().2j+": "+H.2j;3.x(C,3.A.p(3))};e.f.1M=4(c){3.x(z 7d().79(),3.A.p(3))};e.f.l=4(){8 C=b.7().3K+"\\n\\n";u(8 2k D h){C+=h[2k].5+" - "+h[2k].l+"\\n"}3.x(C.1D(),3.A.p(3))};e.f.1Y=4(){3.j.16="";3.w.16="";3.w.16=3.1Q;3.A()};e.f.2l=4(){3.x(b.7().3J,3.2i.p(3))};e.f.2i=4(){3.j.16="";3.w.16="";d(3.2g){3.x(b.7().2o+(3I()?"\\n"+b.7().3L:""),4(){3.A()}.p(3))}};e.f.3M=4(c){3.x(b.7().3O.1m(b.7().1R,c[0]),3.A.p(3))};e.f.3N=4(c){3.x(b.7().3t.1m(b.7().1R,c[0]),3.A.p(3))};e.f.1O=4(){3.k.1O()};8 1T=4(F,j){8 F=4t(F);d(F===4h.4I||F<0){18 z v("17 5 "+F+" u 19 \'F\'.")}d(!(j 1e 1f)){18 z v("17 5 "+j+" u 19 \'j\'.")}3.F=F;3.j=j};1T.f.x=4(X,1l){8 3W=(4(){G 4(1w){G(1w.1z("4K")||1w.1z("4P"))&&1w.21(" ")===-1&&1w.21("\\n")===-1}})();d(3W(X)){1N.5o(X)}8 i=0;8 j=3.j;8 F=3.F;8 23=1p;8 1P=4(){23=1j}.p(3);m.1x("1W",1P);(4 3z(){d(i<X.15){8 27=X.3G(i);8 25=27==="\\n";j.1d+=25?"<1A/>":27;i++;d(!23){5A(3z,25?F*2:F)}Q{j.1d+=(X.51(i).1m(z 52("\\n",\'g\'),"<1A/>"))+"<1A/>";m.3B("1W",1P);1l()}}Q d(1l){j.1d+="<1A/>";m.3B("1W",1P);1l()}1X()})()};G{2F:4(){z e(m.O("w"),m.O("5c"),m.O("j"),m.O("K"),m.O("P"),b.7().14,b.7().1g,b.7().43,b.7().41).49()}}})();1N.4m=42.2F;',62,451,'|||this|function|value||getInstance|var|||configs|cmdComponents|if|Terminal|prototype||cmds||output|cmdLine|help|document||element|bind|the|file|||for|InvalidArgumentException|prompt|type|event|new|unlock|case|result|in|style|timer|return|navigator||Singleton|sidenav|options|break|__|getElementById|profilePic|else|possibilities|userAgent|key|files|command|match|text|instance|to|||defaultOptions||user|length|textContent|Invalid|throw|argument|sidenavElements|CAT|welcome_file_name|innerHTML|instanceof|Node|host|toUpperCase|translateX|true|disabled|callback|replace|elem|txt|false|you|nodeName|and|ignoreEvent|string|forEach|str|addEventListener|as|startsWith|br|push|opacity|trim|sidenavOpen|toLowerCase|300px|cat|of|sidenavBtn|lock|Error|date|window|focus|skip|completePrompt|value_token|join|TypeSimulator|handleCmd|more|dblclick|scrollToBottom|clear|com||indexOf|current|skipped|directory|isNewLine|message|char|click|handleSidenav|isPhone|makeElementDisappear|nI|use|it|platform|typeSimulator|sudo|reset|language|cmd|reboot|Print|DIV|welcome|whoami|work|or|ls|stack|only|rm_help|captureStackTrace|mv_help|outputTimer|Remove|root|typeof|reboot_help|sudo_help|ls_help|listener|cat_help|rmdir_help|date_help|cd_help|screen|clear_help|system|touch_help|help_help|whoami_help|Matrix|about|website|an|will|site|me|email|my|being|have|can|span|years|CERT|am|security|de|cert|_____|by|________|ua|msie|Change|empty|that|nknock|found|protonmail|void|there|not|list|folders|name|REBOOT|CLEAR|HELP|invalid_command_message|MV|RM|RMDIR|DATE|WHOAMI|typer|exec|removeEventListener|blur|handleFill|LS|split|charAt|TOUCH|isUsingIE|reboot_message|general_help|internet_explorer_warning|permissionDenied|invalidCommand|permission_denied_message|accesible_cores|hostname|usage|default|SUDO|file_not_found|sudo_message|isURL|username|makeElementAppear|CD|prepareSideNav|type_delay|main|is_root|capFirst|WebkitTransform|msTransform|keyCode|which|init|transform|appendChild|body|width|nGoodbye|Mr|now|Number|Case|nReinsterting|neuromancer|ai|onload|strict|Anderson|has|won|This|do|parseInt|properly|pressing|The|welcome_message|autofill|Language|cores|Host|kidding|nJust|nYou|Usage|File|Below|NaN|commands|http|Enabled|Platform|permission|Unable|www|into|Accessible|Don|Mode|God|denied|Username|TAB|with|associated|are|substring|RegExp|standard|print|FILE|If|content|timestamps|directories|rename|menu|cmdline|time|info|Clear|terminal|Move|working|Reboot|effective|Read|doesn|NOTE|open|___|_______|autocompleting|ID|internet|using|re|see|_________|______|one|setTimeout|created|exist|information|List|possibility|showing|superuser|Execute|explorer|skills|MSIE|switch|come|blank|Trident|touch|stopPropagation|preventDefault|rmdir|rv|Dehyphencert|twitter|be|LHC|INPUT|hasOwnProperty|adding|Welcome|https|tweeter|contact|progress|scrollTo|scrollHeight|_|create|Object|50px|constructor|createTextNode|slice|createElement|button|onclick|9776|Phone|webOS|Android|mv|rm|iPhone|iPad|Windows|times|BlackBerry|iPod|member|active|exploring|nIf|fun|githubImg|JS|manage|find|feel|issues|bugs|any|on|project|infosec|hacker|color|De|professional|living|side|built|TX|Dallas|free|Who_is_De|career|keydown|pursing|IMG|pentesting|actively|well|HTB|CTF|participate|cd|currently|IT|toString|class|hardwareConcurrency|industry|Date|display|around|none'.split('|'),0,{}))
+"use strict";
+
+var main = (function () {
+    /**
+     * CONFIGS
+     */
+    var configs = (function () {
+        var instance;
+        var Singleton = function (options) {
+            var options = options || Singleton.defaultOptions;
+            for (var key in Singleton.defaultOptions) {
+                this[key] = options[key] || Singleton.defaultOptions[key];
+            }
+        };
+        Singleton.defaultOptions = {
+            general_help: "Below there's a list of commands that you can use.\nYou can use autofill by pressing the TAB key, autocompleting if there's only 1 possibility, or showing you a list of possibilities.",
+            ls_help: "List information about the files and folders (the current directory by default).",
+            cat_help: "Read FILE(s) content and print it to the standard output (screen).",
+            whoami_help: "Print the user name associated with the current effective user ID and more info.",
+            date_help: "Print the system date and time.",
+            help_help: "Print this menu.",
+            clear_help: "Clear the terminal screen.",
+            reboot_help: "Reboot the system.",
+            cd_help: "Change the current working directory.",
+            mv_help: "Move (rename) files.",
+            rm_help: "Remove files or directories.",
+            rmdir_help: "Remove directory, this command will only work if the folders are empty.",
+            touch_help: "Change file timestamps. If the file doesn't exist, it's created an empty one.",
+            sudo_help: "Execute a command as the superuser.",
+            welcome: "#  $$$$$$$   $$$$$$$$           $$$$$$   $$$$$$$$  $$$$$$$   $$$$$$$$ \n#  $$  __$$  $$  _____|        $$  __$$  $$  _____|$$  __$$  __$$  __|\n#  $$ |  $$ |$$ |              $$ /      $$ |      $$ |  $$ |  $$ |   \n#  $$ |  $$ |$$$$$     $$$$$$  $$ |      $$$$$|    $$$$$$$  |  $$ |   \n#  $$ |  $$ |$$  __|   \______|$$ |      $$  __|   $$  __$$<   $$ |   \n#  $$ |  $$ |$$ |              $$ |  $$  $$ |      $$ |  $$ |  $$ |   \n#  $$$$$$$  |$$$$$$$$          \$$$$$$  |$$$$$$$$| $$ |  $$ |  $$ |   \n#  ________/ _________|         _______/  ________|___|   __|   __|   \n",
+            internet_explorer_warning: "NOTE: I see you're using internet explorer, 1. Don't do that. 2. This website won't work properly.",
+            welcome_file_name: "welcome_message.txt",
+            invalid_command_message: "<value>: command not found.",
+            reboot_message: "The Matrix has you now......\n\nknock......\n\nknock......\n\nGoodbye Mr. Anderson......\n\nReinsterting into the Matrix.....\n\n",
+            permission_denied_message: "Unable to '<value>', permission denied.",
+            sudo_message: "God Mode Enabled.\n........\n.......\n......\n.....\n....\n...\n..\n.\nJust kidding...\n",
+            usage: "Usage",
+            file: "file",
+            file_not_found: "File '<value>' not found.",
+            username: "Username",
+            hostname: "Host",
+            platform: "Platform",
+            accesible_cores: "Accessible cores",
+            language: "Language",
+            value_token: "<value>",
+            host: "neuromancer.ai",
+            user: "Case",
+            is_root: false,
+            type_delay: 20
+        };
+        return {
+            getInstance: function (options) {
+                instance === void 0 && (instance = new Singleton(options));
+                return instance;
+            }
+        };
+    })();
+    var files = (function () {
+        var instance;
+        var Singleton = function (options) {
+            var options = options || Singleton.defaultOptions;
+            for (var key in Singleton.defaultOptions) {
+                this[key] = options[key] || Singleton.defaultOptions[key];
+            }
+        };
+        Singleton.defaultOptions = {
+            "about.txt": "Welcome to my website I am De-CERT a hacker/infosec professional living in Dallas, TX.\nI built this site as a side project to work on my JS skills have fun exploring\nIf you manage to find any bugs or security issues feel free to email me: de-cert@protonmail.com",
+            "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.",
+            "contact.txt": "email me: de-cert@protonmail.com",
+            "tweeter.txt": "https://twitter.com/Dehyphencert",
+            "blank.txt": "more to come"
+        };
+        return {
+            getInstance: function (options) {
+                instance === void 0 && (instance = new Singleton(options));
+                return instance;
+            }
+        };
+    })();
+
+    /**
+     * AUX FUNCTIONS
+     */
+
+    var isUsingIE = (function () {
+        return function () {
+            var ua = window.navigator.userAgent;
+            var msie = ua.indexOf("MSIE ");
+            return (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./));
+        }
+    })();
+
+    var ignoreEvent = (function () {
+        return function (event) {
+            event.preventDefault();
+            event.stopPropagation();
+        };
+    })();
+
+    var scrollToBottom = (function () {
+        return function () {
+            window.scrollTo(0, document.body.scrollHeight);
+        }
+    })();
+
+    var isPhone = navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/BlackBerry/i) || navigator.userAgent.match(/Windows Phone/i);
+
+
+    /**
+     * MODEL
+     */
+
+    var InvalidArgumentException = function (message) {
+        this.message = message;
+        // Use V8's native method if available, otherwise fallback
+        if ("captureStackTrace" in Error) {
+            Error.captureStackTrace(this, InvalidArgumentException);
+        } else {
+            this.stack = (new Error()).stack;
+        }
+    };
+    // Extends Error
+    InvalidArgumentException.prototype = Object.create(Error.prototype);
+    InvalidArgumentException.prototype.name = "InvalidArgumentException";
+    InvalidArgumentException.prototype.constructor = InvalidArgumentException;
+
+    var cmds = {
+        LS: { value: "ls", help: configs.getInstance().ls_help },
+        CAT: { value: "cat", help: configs.getInstance().cat_help },
+        WHOAMI: { value: "whoami", help: configs.getInstance().whoami_help },
+        DATE: { value: "date", help: configs.getInstance().date_help },
+        HELP: { value: "help", help: configs.getInstance().help_help },
+        CLEAR: { value: "clear", help: configs.getInstance().clear_help },
+        REBOOT: { value: "reboot", help: configs.getInstance().reboot_help },
+        CD: { value: "cd", help: configs.getInstance().cd_help },
+        MV: { value: "mv", help: configs.getInstance().mv_help },
+        RM: { value: "rm", help: configs.getInstance().rm_help },
+        RMDIR: { value: "rmdir", help: configs.getInstance().rmdir_help },
+        TOUCH: { value: "touch", help: configs.getInstance().touch_help },
+        SUDO: { value: "sudo", help: configs.getInstance().sudo_help }
+    };
+
+
+    var Terminal = function (prompt, cmdLine, output, sidenav, profilePic, user, host, root, outputTimer) {
+        if (!(prompt instanceof Node) || prompt.nodeName.toUpperCase() !== "DIV") {
+            throw new InvalidArgumentException("Invalid value " + prompt + " for argument 'prompt'.");
+        }
+        if (!(cmdLine instanceof Node) || cmdLine.nodeName.toUpperCase() !== "INPUT") {
+            throw new InvalidArgumentException("Invalid value " + cmdLine + " for argument 'cmdLine'.");
+        }
+        if (!(output instanceof Node) || output.nodeName.toUpperCase() !== "DIV") {
+            throw new InvalidArgumentException("Invalid value " + output + " for argument 'output'.");
+        }
+        if (!(sidenav instanceof Node) || sidenav.nodeName.toUpperCase() !== "DIV") {
+            throw new InvalidArgumentException("Invalid value " + sidenav + " for argument 'sidenav'.");
+        }
+        if (!(profilePic instanceof Node) || profilePic.nodeName.toUpperCase() !== "IMG") {
+            throw new InvalidArgumentException("Invalid value " + profilePic + " for argument 'profilePic'.");
+        }
+        (typeof user === "string" && typeof host === "string") && (this.completePrompt = user + "@" + host + ":~" + (root ? "#" : "$"));
+        this.profilePic = profilePic;
+        this.prompt = prompt;
+        this.cmdLine = cmdLine;
+        this.output = output;
+        this.sidenav = sidenav;
+        this.sidenavOpen = false;
+        this.sidenavElements = [];
+        this.typeSimulator = new TypeSimulator(outputTimer, output);
+    };
+
+    Terminal.prototype.type = function (text, callback) {
+        this.typeSimulator.type(text, callback);
+    };
+
+    Terminal.prototype.exec = function () {
+        var command = this.cmdLine.value;
+        this.cmdLine.value = "";
+        this.prompt.textContent = "";
+        this.output.innerHTML += "<span class=\"prompt-color\">" + this.completePrompt + "</span> " + command + "<br/>";
+    };
+
+    Terminal.prototype.init = function () {
+        isPhone && (document.getElementById("githubImg").style.display = "none");
+        this.sidenav.addEventListener("click", ignoreEvent);
+        this.cmdLine.disabled = true;
+        this.sidenavElements.forEach(function (elem) {
+            elem.disabled = true;
+        });
+        this.prepareSideNav();
+        this.lock(); // Need to lock here since the sidenav elements were just added
+        document.body.addEventListener("click", this.focus.bind(this));
+        this.cmdLine.addEventListener("keydown", function (event) {
+            if (event.which === 13 || event.keyCode === 13) {
+                this.handleCmd();
+                ignoreEvent(event);
+            } else if (event.which === 9 || event.keyCode === 9) {
+                this.handleFill();
+                ignoreEvent(event);
+            }
+        }.bind(this));
+        this.reset();
+    };
+
+
+
+    Terminal.makeElementDisappear = function (element) {
+        element.style.opacity = 0;
+        element.style.transform = "translateX(-300px)";
+        // Support for old browsers
+        element.style.msTransform = "translateX(-300px)";
+        element.style.WebkitTransform = "translateX(-300px)";
+    };
+
+    Terminal.makeElementAppear = function (element) {
+        element.style.opacity = 1;
+        element.style.transform = "translateX(0)";
+        // Support for old browsers
+        element.style.msTransform = "translateX(0)";
+        element.style.WebkitTransform = "translateX(0)";
+    };
+
+    Terminal.prototype.prepareSideNav = function () {
+        var capFirst = (function () {
+            return function (string) {
+                return string.charAt(0).toUpperCase() + string.slice(1);
+            }
+        })();
+        for (var file in files.getInstance()) {
+            var element = document.createElement("button");
+            Terminal.makeElementDisappear(element);
+            element.onclick = function (file, event) {
+                this.handleSidenav(event);
+                this.cmdLine.value = "cat " + file + " ";
+                this.handleCmd();
+            }.bind(this, file);
+            element.appendChild(document.createTextNode(capFirst(file.replace(/\.[^/.]+$/, "").replace(/_/g, " "))));
+            this.sidenav.appendChild(element);
+            this.sidenavElements.push(element);
+        }
+        // Shouldn't use document.getElementById but Terminal is already using loads of params
+        document.getElementById("sidenavBtn").addEventListener("click", this.handleSidenav.bind(this));
+    };
+
+    Terminal.prototype.handleSidenav = function (event) {
+        if (this.sidenavOpen) {
+            this.profilePic.style.opacity = 0;
+            this.sidenavElements.forEach(Terminal.makeElementDisappear);
+            this.sidenav.style.width = "50px";
+            document.getElementById("sidenavBtn").innerHTML = "&#9776;";
+            this.sidenavOpen = false;
+        } else {
+            this.sidenav.style.width = "300px";
+            this.sidenavElements.forEach(Terminal.makeElementAppear);
+            document.getElementById("sidenavBtn").innerHTML = "&times;";
+            this.profilePic.style.opacity = 1;
+            this.sidenavOpen = true;
+        }
+        document.getElementById("sidenavBtn").blur();
+        ignoreEvent(event);
+    };
+
+    Terminal.prototype.lock = function () {
+        this.exec();
+        this.cmdLine.blur();
+        this.cmdLine.disabled = true;
+        this.sidenavElements.forEach(function (elem) {
+            elem.disabled = true;
+        });
+    };
+
+    Terminal.prototype.unlock = function () {
+        this.cmdLine.disabled = false;
+        this.prompt.textContent = this.completePrompt;
+        this.sidenavElements.forEach(function (elem) {
+            elem.disabled = false;
+        });
+        scrollToBottom();
+        if (!isPhone) {
+            this.focus();
+        }
+    };
+
+    Terminal.prototype.handleFill = function () {
+        var cmdComponents = this.cmdLine.value.trim().split(" ");
+        if ((cmdComponents.length <= 1) || (cmdComponents.length === 2 && cmdComponents[0] === cmds.CAT.value)) {
+            this.lock();
+            var possibilities = [];
+            if (cmdComponents[0].toLowerCase() === cmds.CAT.value) {
+                if (cmdComponents.length === 1) {
+                    cmdComponents[1] = "";
+                }
+                if (configs.getInstance().welcome_file_name.startsWith(cmdComponents[1].toLowerCase())) {
+                    possibilities.push(cmds.CAT.value + " " + configs.getInstance().welcome_file_name);
+                }
+                for (var file in files.getInstance()) {
+                    if (file.startsWith(cmdComponents[1].toLowerCase())) {
+                        possibilities.push(cmds.CAT.value + " " + file);
+                    }
+                }
+            } else {
+                for (var command in cmds) {
+                    if (cmds[command].value.startsWith(cmdComponents[0].toLowerCase())) {
+                        possibilities.push(cmds[command].value);
+                    }
+                }
+            }
+            if (possibilities.length === 1) {
+                this.cmdLine.value = possibilities[0] + " ";
+                this.unlock();
+            } else if (possibilities.length > 1) {
+                this.type(possibilities.join("\n"), function () {
+                    this.cmdLine.value = cmdComponents.join(" ");
+                    this.unlock();
+                }.bind(this));
+            } else {
+                this.cmdLine.value = cmdComponents.join(" ");
+                this.unlock();
+            }
+        }
+    };
+
+    Terminal.prototype.handleCmd = function () {
+        var cmdComponents = this.cmdLine.value.trim().split(" ");
+        this.lock();
+        switch (cmdComponents[0]) {
+            case cmds.CAT.value:
+                this.cat(cmdComponents);
+                break;
+            case cmds.LS.value:
+                this.ls();
+                break;
+            case cmds.WHOAMI.value:
+                this.whoami();
+                break;
+            case cmds.DATE.value:
+                this.date();
+                break;
+            case cmds.HELP.value:
+                this.help();
+                break;
+            case cmds.CLEAR.value:
+                this.clear();
+                break;
+            case cmds.REBOOT.value:
+                this.reboot();
+                break;
+            case cmds.CD.value:
+            case cmds.MV.value:
+            case cmds.RMDIR.value:
+            case cmds.RM.value:
+            case cmds.TOUCH.value:
+                this.permissionDenied(cmdComponents);
+                break;
+            case cmds.SUDO.value:
+                this.sudo();
+                break;
+            default:
+                this.invalidCommand(cmdComponents);
+                break;
+        };
+    };
+
+    Terminal.prototype.cat = function (cmdComponents) {
+        var result;
+        if (cmdComponents.length <= 1) {
+            result = configs.getInstance().usage + ": " + cmds.CAT.value + " <" + configs.getInstance().file + ">";
+        } else if (!cmdComponents[1] || (!cmdComponents[1] === configs.getInstance().welcome_file_name && !files.getInstance().hasOwnProperty(cmdComponents[1]))) {
+            result = configs.getInstance().file_not_found.replace(configs.getInstance().value_token, cmdComponents[1]);
+        } else {
+            result = cmdComponents[1] === configs.getInstance().welcome_file_name ? configs.getInstance().welcome : files.getInstance()[cmdComponents[1]];
+        }
+        this.type(result, this.unlock.bind(this));
+    };
+
+    Terminal.prototype.ls = function () {
+        var result = ".\n..\n" + configs.getInstance().welcome_file_name + "\n";
+        for (var file in files.getInstance()) {
+            result += file + "\n";
+        }
+        this.type(result.trim(), this.unlock.bind(this));
+    };
+
+    Terminal.prototype.sudo = function () {
+        this.type(configs.getInstance().sudo_message, this.unlock.bind(this));
+    }
+
+    Terminal.prototype.whoami = function (cmdComponents) {
+        var result = configs.getInstance().username + ": " + configs.getInstance().user + "\n" + configs.getInstance().hostname + ": " + configs.getInstance().host + "\n" + configs.getInstance().platform + ": " + navigator.platform + "\n" + configs.getInstance().accesible_cores + ": " + navigator.hardwareConcurrency + "\n" + configs.getInstance().language + ": " + navigator.language;
+        this.type(result, this.unlock.bind(this));
+    };
+
+    Terminal.prototype.date = function (cmdComponents) {
+        this.type(new Date().toString(), this.unlock.bind(this));
+    };
+
+    Terminal.prototype.help = function () {
+        var result = configs.getInstance().general_help + "\n\n";
+        for (var cmd in cmds) {
+            result += cmds[cmd].value + " - " + cmds[cmd].help + "\n";
+        }
+        this.type(result.trim(), this.unlock.bind(this));
+    };
+
+    Terminal.prototype.clear = function () {
+        this.output.textContent = "";
+        this.prompt.textContent = "";
+        this.prompt.textContent = this.completePrompt;
+        this.unlock();
+    };
+
+    Terminal.prototype.reboot = function () {
+        this.type(configs.getInstance().reboot_message, this.reset.bind(this));
+    };
+
+    Terminal.prototype.reset = function () {
+        this.output.textContent = "";
+        this.prompt.textContent = "";
+        if (this.typeSimulator) {
+            this.type(configs.getInstance().welcome + (isUsingIE() ? "\n" + configs.getInstance().internet_explorer_warning : ""), function () {
+                this.unlock();
+            }.bind(this));
+        }
+    };
+
+    Terminal.prototype.permissionDenied = function (cmdComponents) {
+        this.type(configs.getInstance().permission_denied_message.replace(configs.getInstance().value_token, cmdComponents[0]), this.unlock.bind(this));
+    };
+
+    Terminal.prototype.invalidCommand = function (cmdComponents) {
+        this.type(configs.getInstance().invalid_command_message.replace(configs.getInstance().value_token, cmdComponents[0]), this.unlock.bind(this));
+    };
+
+    Terminal.prototype.focus = function () {
+        this.cmdLine.focus();
+    };
+
+    var TypeSimulator = function (timer, output) {
+        var timer = parseInt(timer);
+        if (timer === Number.NaN || timer < 0) {
+            throw new InvalidArgumentException("Invalid value " + timer + " for argument 'timer'.");
+        }
+        if (!(output instanceof Node)) {
+            throw new InvalidArgumentException("Invalid value " + output + " for argument 'output'.");
+        }
+        this.timer = timer;
+        this.output = output;
+    };
+
+    TypeSimulator.prototype.type = function (text, callback) {
+        var isURL = (function () {
+            return function (str) {
+                return (str.startsWith("http") || str.startsWith("www")) && str.indexOf(" ") === -1 && str.indexOf("\n") === -1;
+            };
+        })();
+        if (isURL(text)) {
+            window.open(text);
+        }
+        var i = 0;
+        var output = this.output;
+        var timer = this.timer;
+        var skipped = false;
+        var skip = function () {
+            skipped = true;
+        }.bind(this);
+        document.addEventListener("dblclick", skip);
+        (function typer() {
+            if (i < text.length) {
+                var char = text.charAt(i);
+                var isNewLine = char === "\n";
+                output.innerHTML += isNewLine ? "<br/>" : char;
+                i++;
+                if (!skipped) {
+                    setTimeout(typer, isNewLine ? timer * 2 : timer);
+                } else {
+                    output.innerHTML += (text.substring(i).replace(new RegExp("\n", 'g'), "<br/>")) + "<br/>";
+                    document.removeEventListener("dblclick", skip);
+                    callback();
+                }
+            } else if (callback) {
+                output.innerHTML += "<br/>";
+                document.removeEventListener("dblclick", skip);
+                callback();
+            }
+            scrollToBottom();
+        })();
+    };
+
+    return {
+        listener: function () {
+            new Terminal(
+                document.getElementById("prompt"),
+                document.getElementById("cmdline"),
+                document.getElementById("output"),
+                document.getElementById("sidenav"),
+                document.getElementById("profilePic"),
+                configs.getInstance().user,
+                configs.getInstance().host,
+                configs.getInstance().is_root,
+                configs.getInstance().type_delay
+            ).init();
+        }
+    };
+})();
+
+window.onload = main.listener;
