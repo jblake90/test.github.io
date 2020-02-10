@@ -68,7 +68,7 @@ var main = (function () {
             "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.",
             "contact.txt": "email me: de-cert@protonmail.com",
             "tweeter.txt": "https://twitter.com/Dehyphencert",
-            "blank.txt": "Try again... think SUPER hard"
+            "Flag.txt": "Try again its not THAT easy... think SUPER hard"
         };
         return {
             getInstance: function (options) {
