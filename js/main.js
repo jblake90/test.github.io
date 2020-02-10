@@ -33,7 +33,7 @@ var main = (function () {
             invalid_command_message: "<value>: command not found.",
             reboot_message: "The Matrix has you now......\n\n\nknock......\n\n\nknock......\n\n\nGoodbye Mr. Anderson......\n\n\nReinsterting into the Matrix.....\n\n\n\n",
             permission_denied_message: "Unable to '<value>', permission denied.",
-            sudo_message: "God Mode Enabled.\n........\n.......\n......\n.....\n....\n...\n..\n.\nJust kidding...\n",
+            sudo_message: "God Mode Enabled.\n........\n.......\n......\n.....\n....\n...\n..\n.\nJust kidding...jblake90.github.io/kcchallenge/\n",
             usage: "Usage",
             file: "file",
             file_not_found: "File '<value>' not found.",
@@ -68,7 +68,7 @@ var main = (function () {
             "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.",
             "contact.txt": "email me: de-cert@protonmail.com",
             "tweeter.txt": "https://twitter.com/Dehyphencert",
-            "blank.txt": "more to come"
+            "blank.txt": "Try again... think SUPER hard"
         };
         return {
             getInstance: function (options) {
