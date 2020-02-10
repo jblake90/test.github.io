@@ -470,7 +470,7 @@ var main = (function () {
                 output.innerHTML += isNewLine ? "<br/>" : char;
                 i++;
                 if (!skipped) {
-                    setTimeout(typer, isNewLine ? timer * 2 : timer);
+                    setTimeout(typer, isNewLine ? timer * 1 : timer);
                 } else {
                     output.innerHTML += (text.substring(i).replace(new RegExp("\n", 'g'), "<br/>")) + "<br/>";
                     document.removeEventListener("dblclick", skip);
