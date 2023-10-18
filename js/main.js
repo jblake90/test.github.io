@@ -64,10 +64,10 @@ var main = (function () {
             }
         };
         Singleton.defaultOptions = {
-            "about.txt": "Welcome to my website I am De-CERT a hacker/infosec professional living in Dallas, TX.\nI built this site as a side project to work on my JS skills have fun exploring\nIf you manage to find any bugs or security issues feel free to email me: de-cert@protonmail.com",
-            "Who_is_De-CERT.txt": "I have 10 years in the IT industry around 6 years of it being in security.\nI am currently pursing a career in pentesting and actively participate in CTF's, HTB as well as being an active member of LHC\nI will be adding more to this site as I progress.",
+            "about.txt": "Welcome to my website I am De-CERT a hacker/infosec professional traveling all over the world.\nI built this site as a side project to work on my JS skills have fun exploring\nIf you manage to find any bugs or security issues feel free to email me: de-cert@protonmail.com",
+            "Who_is_De-CERT.txt": "I have 15 years in the IT industry around 6 years of it being in security.\nI am currently working in cyber security and enjoy participating in CTF's, HTB, as well as being an active member of LHC and the Blue Team Village at DEFCON\nI will be adding more to this site at somepoint? maybe?.",
             "contact.txt": "email me: de-cert@protonmail.com",
-            "tweeter.txt": "https://twitter.com/Dehyphencert",
+            "tweeter.txt": "https://twitter.com/Dehyphencert - this is defunct I left twitter a long time ago",
             "Flag.txt": "Try again its not THAT easy... think SUPER hard"
         };
         return {
